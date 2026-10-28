@@ -1,0 +1,50 @@
+[
+  {
+    "id": "google",
+    "label": "Google Data Centers",
+    "url": "https://datacenters.google/locations/",
+    "kind": "Official provider locations"
+  },
+  {
+    "id": "coreweave",
+    "label": "CoreWeave AI Data Centers",
+    "url": "https://www.coreweave.com/ai-data-centers",
+    "kind": "Official AI infrastructure page"
+  },
+  {
+    "id": "oracle",
+    "label": "Oracle AI Data Centers",
+    "url": "https://www.oracle.com/data-centers/",
+    "kind": "Official AI data center locations"
+  },
+  {
+    "id": "aws",
+    "label": "AWS Regions & Availability Zones",
+    "url": "https://aws.amazon.com/about-aws/global-infrastructure/regions_az/",
+    "kind": "Official cloud infrastructure"
+  },
+  {
+    "id": "azure",
+    "label": "Azure Global Infrastructure",
+    "url": "https://azure.microsoft.com/en-us/explore/global-infrastructure",
+    "kind": "Official cloud and AI infrastructure"
+  },
+  {
+    "id": "cleanview",
+    "label": "Cleanview US Data Center Tracker",
+    "url": "https://cleanview.co/data-centers/us",
+    "kind": "Public tracker / project records"
+  },
+  {
+    "id": "datacentermap",
+    "label": "Data Center Map",
+    "url": "https://www.datacentermap.com/",
+    "kind": "Global directory context"
+  },
+  {
+    "id": "nvidia",
+    "label": "NVIDIA Data Center Solutions",
+    "url": "https://www.nvidia.com/en-us/data-center/",
+    "kind": "AI infrastructure definition"
+  }
+]
